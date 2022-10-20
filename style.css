@@ -1,0 +1,18 @@
+/* dentro de estilo.css */
+.highlight {
+    background-color: yellow;
+}
+
+.error {
+    background-color: lightcoral;
+    border-color: red;
+}
+
+button {
+    color: blue;
+}
+
+h1 {
+    background-color: rgba(0, 255, 119, 0.575);
+    color: rgb(0, 38, 255);
+}
